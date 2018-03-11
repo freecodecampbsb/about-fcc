@@ -38,4 +38,5 @@ Para esta certificação você irá construir **dois projetos a partir do zero**
 
 **Os Certificados são fornecidos pelo FCC e são reconhecidos por diversas empresas pelo LinkedIn.**
 
-Voltar para **[Guia Rápido](https://github.com/freecodecampbsb/quick-start)**
+## Voltar
+Voltar para o **[Guia Rápido](https://github.com/freecodecampbsb/quick-start)**
